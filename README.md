@@ -69,4 +69,4 @@ I also learned that adding lag values and rolling averages really improves forec
 # Visualization
 ![weekly sales](weekly_sales.png)
 ![seasonal decomp](seasonal_decomp.png)
-![walmart sales forecasting](walmart_sales_forecasting.png)
+![walmart sales forecasting](walmart_sales_forcasting.png)
